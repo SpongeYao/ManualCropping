@@ -6,7 +6,7 @@ Command line:
 	python ManualCropping.py <input folder> <output folder>
 ```
 
-s: save the last rectangle and go to next image\n
-x: skip and go to next image\n
-z: clear window\n
-q: quit the all process\n
+s: save the last rectangle and go to next image  
+x: skip and go to next image  
+z: clear window  
+q: quit the all process  
